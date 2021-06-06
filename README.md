@@ -1,16 +1,46 @@
-### Hi there 👋
+<h3 align="center"><img width="30%" src="https://i.ibb.co/6DXgTgD/Developer-activity-bro.png"></h3>
 
-<!--
-**MehmethanSargin/MehmethanSargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hello, I'm Mehmethan Sargin</h3>
+<h4 align="center">Unity Mobile Game Developer</h3>
 
-Here are some ideas to get you started:
+![--------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📖 About me
+
+- :computer: I'm a Management Information Systems Student
+
+- :video_game: I’m currently learning **Unity Game Development**
+
+- 🎓 I'm a Management Information Systems student (graduating in 2021)
+
+
+
+## 👨‍💻 Languages and Tools:
+![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
+![Unity](http://img.shields.io/badge/-Unity-3776AB?style=flat-square&logo=unity&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-4479A1?logo=Java&style=flat&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-5C2D91?logo=Bootstrap&style=flat-square)
+
+## :mortar_board: **Programming resources used for self-learning:**
+
+:world_map: Github
+
+:computer: HackerRank
+
+:hammer_and_wrench: Stackoverflow
+
+:school: Udemy
+
+:writing_hand: W3schools
+
+:page_with_curl: Unity documentation.
+
+##  :link: **How to reach me:**
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmethansargin/)
+
+
+
