@@ -1,4 +1,4 @@
-<h3 align="center"><img width="30%" src="https://i.ibb.co/6DXgTgD/Developer-activity-bro.png"></h3>
+<h3 align="center"><img width="50%" src="https://raw.githubusercontent.com/MehmethanSargin/MehmethanSargin/main/Images/indir.png"></h3>
 
 <h3 align="center">Hello, I'm Mehmethan Sargin</h3>
 <h4 align="center">Unity Mobile Game Developer</h3>
@@ -41,6 +41,12 @@
 ##  :link: **How to reach me:**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmethansargin/)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 
 
 
