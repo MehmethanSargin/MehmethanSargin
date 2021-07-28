@@ -44,7 +44,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#           3 hrs 53 mins   █████████████████████████   99.35 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 <!--END_SECTION:waka-->
 
