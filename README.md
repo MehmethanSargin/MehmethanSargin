@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C#           3 hrs 55 mins   █████████████████████████   99.99 % 
+C#           3 hrs 20 mins   █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
